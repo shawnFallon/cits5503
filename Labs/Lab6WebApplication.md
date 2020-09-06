@@ -36,7 +36,7 @@ The aim of this lab is to write a program that will:
 ```
 sudo apt-get update
 sudo apt-get install python3-venv
-
+sudo apt-get install python-pip
 '
 python3 -m venv virtualenv
 ```
